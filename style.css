@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    align-content: center;
+    line-height: 1.7rem;
+}
+table {
+    margin: 0 auto;
+    border: 2px solid black;
+  }
+p{
+    margin: 10px 20px;
+}
